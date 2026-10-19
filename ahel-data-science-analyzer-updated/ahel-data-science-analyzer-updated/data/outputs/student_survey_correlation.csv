@@ -1,0 +1,5 @@
+variable_x,variable_y,pearson_r
+Practical_Exposure_Score,Professional_Readiness_Score,0.451
+Technical Confidence Level,Professional_Readiness_Score,0.392
+Reliance on Theory,Professional_Readiness_Score,-0.019
+Gap with Job Market,Professional_Readiness_Score,0.308

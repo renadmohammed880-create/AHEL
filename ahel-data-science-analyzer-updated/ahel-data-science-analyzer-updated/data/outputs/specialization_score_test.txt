@@ -1,0 +1,7 @@
+Selected skills: ['Python', 'SQL', 'Machine Learning']
+Not selected           SPA= 30 Final= 62
+Data Science           SPA= 42 Final= 64
+Software Engineering   SPA= 11 Final= 58
+Networks               SPA= 13 Final= 58
+AI & ML                SPA= 33 Final= 62
+Cybersecurity          SPA= 24 Final= 60

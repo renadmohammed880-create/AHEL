@@ -1,0 +1,6 @@
+variable,count,mean,min,max
+Practical_Exposure_Score,208,58.26,0.0,100.0
+Professional_Readiness_Score,187,70.05,50.0,100.0
+Technical Confidence Level,208,61.06,25.0,90.0
+Reliance on Theory,208,60.58,0.0,100.0
+Gap with Job Market,182,35.99,0.0,100.0
